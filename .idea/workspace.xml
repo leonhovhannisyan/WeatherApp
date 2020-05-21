@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff7a61c7-8b89-4d91-9ce8-cb5c0920ead1" name="Default Changelist" comment="" />
+    <list default="true" id="ff7a61c7-8b89-4d91-9ce8-cb5c0920ead1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Applicaton.py" beforeDir="false" afterPath="$PROJECT_DIR$/Applicaton.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +47,6 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Python.Applicaton">
@@ -131,21 +133,25 @@
       <screen x="65" y="24" width="1301" height="744" />
     </state>
     <state x="503" y="127" key="FileChooserDialogImpl/65.24.1301.744@65.24.1301.744" timestamp="1590060215787" />
-    <state width="1278" height="193" key="GridCell.Tab.0.bottom" timestamp="1590017750604">
+    <state width="1278" height="193" key="GridCell.Tab.0.bottom" timestamp="1590061474022">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1278" height="193" key="GridCell.Tab.0.bottom/65.24.1301.744@65.24.1301.744" timestamp="1590017750604" />
-    <state width="1278" height="193" key="GridCell.Tab.0.center" timestamp="1590017750604">
+    <state width="1278" height="193" key="GridCell.Tab.0.bottom/65.24.1301.744@65.24.1301.744" timestamp="1590061474022" />
+    <state width="1278" height="193" key="GridCell.Tab.0.center" timestamp="1590061474021">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1278" height="193" key="GridCell.Tab.0.center/65.24.1301.744@65.24.1301.744" timestamp="1590017750604" />
-    <state width="1278" height="193" key="GridCell.Tab.0.left" timestamp="1590017750603">
+    <state width="1278" height="193" key="GridCell.Tab.0.center/65.24.1301.744@65.24.1301.744" timestamp="1590061474021" />
+    <state width="1278" height="193" key="GridCell.Tab.0.left" timestamp="1590061474021">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1278" height="193" key="GridCell.Tab.0.left/65.24.1301.744@65.24.1301.744" timestamp="1590017750603" />
-    <state width="1278" height="193" key="GridCell.Tab.0.right" timestamp="1590017750604">
+    <state width="1278" height="193" key="GridCell.Tab.0.left/65.24.1301.744@65.24.1301.744" timestamp="1590061474021" />
+    <state width="1278" height="193" key="GridCell.Tab.0.right" timestamp="1590061474021">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1278" height="193" key="GridCell.Tab.0.right/65.24.1301.744@65.24.1301.744" timestamp="1590017750604" />
+    <state width="1278" height="193" key="GridCell.Tab.0.right/65.24.1301.744@65.24.1301.744" timestamp="1590061474021" />
+    <state x="491" y="298" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590061555980">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="491" y="298" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/65.24.1301.744@65.24.1301.744" timestamp="1590061555980" />
   </component>
 </project>
