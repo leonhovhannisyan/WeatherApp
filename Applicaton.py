@@ -37,7 +37,7 @@ root = tkinter.Tk()
 root.title("Weather Application")
 
 canvas = tkinter.Canvas(root, height=HEIGHT, width=WIDTH)
-filename = tkinter.PhotoImage(file= "/home/leon/DevelopmentDir/WeatherApp/files/background.png")
+filename = tkinter.PhotoImage(file= "/home/lhovhannisyan/Development/WeatherApp/files/background.png")
 bg_label = tkinter.Label(canvas, image=filename)
 bg_label.place(relx=0, rely=0, relwidth=1, relheight=1)
 canvas.pack()
